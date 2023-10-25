@@ -1,0 +1,3 @@
+add_ace group.dev playerblips allow
+
+Add that to where ever your permissions are.
